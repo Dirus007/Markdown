@@ -47,4 +47,5 @@ Upon launching the application, you will be presented with a GUI where you can i
 After entering your Markdown text, click Run to perform the conversion.
 - If you're converting a table and wish to save it as a CSV file, click Save Table as CSV after the conversion.
 
-  ## Screenshots
+## Screenshots
+<img src="screenshots/Markdown Opening.png" alt="Markdown Opening" title="Markdown Opening" height="60" width="60" >
