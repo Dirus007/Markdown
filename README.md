@@ -49,7 +49,7 @@ After entering your Markdown text, click Run to perform the conversion.
 
 ## Screenshots
 
-![Markdown HTML](/screenshots/MarkdownHTML.png "Markdown HTML")
+![Markdown HTML](/Markdown/screenshots/MarkdownHTML.png "Markdown HTML")
 ![Markdown Opening](screenshots/MarkdownOpening.png "Markdown Opening")
 ![Markdown Python](screenshots/MarkdownPython.png "Markdown Python")
 ![Markdown to Table](screenshots/MarkdowntoTable.png "Markdown to Table")
