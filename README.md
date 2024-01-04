@@ -48,4 +48,4 @@ After entering your Markdown text, click Run to perform the conversion.
 - If you're converting a table and wish to save it as a CSV file, click Save Table as CSV after the conversion.
 
 ## Screenshots
-![Employee data](/screenshots/Markdown Opening.png?raw=true "Employee Data title")
+![Employee data](/screenshots/Markdown_Opening.png?raw=true "Employee Data title")
