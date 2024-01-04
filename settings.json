@@ -1,0 +1,14 @@
+{
+  "window_width": 900,
+  "window_height": 620,
+  "input_name_input_width": 90,
+  "input_name_input_height": 2,
+  "input_label_input_width": 90,
+  "input_label_input_height": 25,
+  "run_button_width": 9,
+  "run_button_height": 1,
+  "run_button_padding": 10,
+  "save_as_button_width": 16,
+  "save_as_button_height": 1,
+  "save_as_button_padding": 10
+}

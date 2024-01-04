@@ -1,0 +1,3394 @@
+('C:\\Users\\Mukul  Dev\\OneDrive\\Desktop\\Markdown to '
+ 'HTML\\build\\run_v2\\PYZ-00.pyz',
+ [('PIL',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bs4',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\calendar.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib_metadata',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._adapters',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_metadata._collections',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._functools',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib_metadata._itertools',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_metadata._meta',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib_metadata._py39compat',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_py39compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._text',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\inspect.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\lzma.py',
+   'PYMODULE'),
+  ('markdown',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\__init__.py',
+   'PYMODULE'),
+  ('markdown.__meta__',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\__meta__.py',
+   'PYMODULE'),
+  ('markdown.blockparser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\blockparser.py',
+   'PYMODULE'),
+  ('markdown.blockprocessors',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\blockprocessors.py',
+   'PYMODULE'),
+  ('markdown.core',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\core.py',
+   'PYMODULE'),
+  ('markdown.extensions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('markdown.extensions.abbr',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\abbr.py',
+   'PYMODULE'),
+  ('markdown.extensions.admonition',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\admonition.py',
+   'PYMODULE'),
+  ('markdown.extensions.attr_list',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\attr_list.py',
+   'PYMODULE'),
+  ('markdown.extensions.codehilite',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\codehilite.py',
+   'PYMODULE'),
+  ('markdown.extensions.def_list',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\def_list.py',
+   'PYMODULE'),
+  ('markdown.extensions.extra',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\extra.py',
+   'PYMODULE'),
+  ('markdown.extensions.fenced_code',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\fenced_code.py',
+   'PYMODULE'),
+  ('markdown.extensions.footnotes',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\footnotes.py',
+   'PYMODULE'),
+  ('markdown.extensions.legacy_attrs',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\legacy_attrs.py',
+   'PYMODULE'),
+  ('markdown.extensions.legacy_em',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\legacy_em.py',
+   'PYMODULE'),
+  ('markdown.extensions.md_in_html',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\md_in_html.py',
+   'PYMODULE'),
+  ('markdown.extensions.meta',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\meta.py',
+   'PYMODULE'),
+  ('markdown.extensions.nl2br',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\nl2br.py',
+   'PYMODULE'),
+  ('markdown.extensions.sane_lists',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\sane_lists.py',
+   'PYMODULE'),
+  ('markdown.extensions.smarty',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\smarty.py',
+   'PYMODULE'),
+  ('markdown.extensions.tables',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\tables.py',
+   'PYMODULE'),
+  ('markdown.extensions.toc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\toc.py',
+   'PYMODULE'),
+  ('markdown.extensions.wikilinks',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\extensions\\wikilinks.py',
+   'PYMODULE'),
+  ('markdown.htmlparser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\htmlparser.py',
+   'PYMODULE'),
+  ('markdown.inlinepatterns',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\inlinepatterns.py',
+   'PYMODULE'),
+  ('markdown.postprocessors',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\postprocessors.py',
+   'PYMODULE'),
+  ('markdown.preprocessors',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\preprocessors.py',
+   'PYMODULE'),
+  ('markdown.serializers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\serializers.py',
+   'PYMODULE'),
+  ('markdown.treeprocessors',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\treeprocessors.py',
+   'PYMODULE'),
+  ('markdown.util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\markdown\\util.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._generic_alias',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_generic_alias.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygments',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\__init__.py',
+   'PYMODULE'),
+  ('pygments.console',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\console.py',
+   'PYMODULE'),
+  ('pygments.filter',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\filter.py',
+   'PYMODULE'),
+  ('pygments.filters',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\filters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.formatter',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatter.py',
+   'PYMODULE'),
+  ('pygments.formatters',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.formatters._mapping',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.formatters.bbcode',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\bbcode.py',
+   'PYMODULE'),
+  ('pygments.formatters.groff',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\groff.py',
+   'PYMODULE'),
+  ('pygments.formatters.html',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\html.py',
+   'PYMODULE'),
+  ('pygments.formatters.img',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\img.py',
+   'PYMODULE'),
+  ('pygments.formatters.irc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\irc.py',
+   'PYMODULE'),
+  ('pygments.formatters.latex',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\latex.py',
+   'PYMODULE'),
+  ('pygments.formatters.other',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\other.py',
+   'PYMODULE'),
+  ('pygments.formatters.pangomarkup',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\pangomarkup.py',
+   'PYMODULE'),
+  ('pygments.formatters.rtf',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\rtf.py',
+   'PYMODULE'),
+  ('pygments.formatters.svg',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\svg.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\terminal.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal256',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\formatters\\terminal256.py',
+   'PYMODULE'),
+  ('pygments.lexer',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexer.py',
+   'PYMODULE'),
+  ('pygments.lexers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\__init__.py',
+   'PYMODULE'),
+  ('pygments.lexers._ada_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_ada_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._asy_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_asy_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._cl_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_cl_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._cocoa_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_cocoa_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._csound_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_csound_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._css_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_css_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._julia_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_julia_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lasso_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_lasso_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lilypond_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_lilypond_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lua_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_lua_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._mapping',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.lexers._mql_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_mql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._mysql_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_mysql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._openedge_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_openedge_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._php_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_php_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._postgres_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_postgres_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._qlik_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_qlik_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._scheme_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_scheme_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._scilab_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_scilab_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._sourcemod_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_sourcemod_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._stan_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_stan_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._stata_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_stata_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._tsql_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_tsql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._usd_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_usd_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._vbscript_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_vbscript_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._vim_builtins',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\_vim_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.actionscript',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\actionscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.ada',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ada.py',
+   'PYMODULE'),
+  ('pygments.lexers.agile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\agile.py',
+   'PYMODULE'),
+  ('pygments.lexers.algebra',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\algebra.py',
+   'PYMODULE'),
+  ('pygments.lexers.ambient',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ambient.py',
+   'PYMODULE'),
+  ('pygments.lexers.amdgpu',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\amdgpu.py',
+   'PYMODULE'),
+  ('pygments.lexers.ampl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ampl.py',
+   'PYMODULE'),
+  ('pygments.lexers.apdlexer',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\apdlexer.py',
+   'PYMODULE'),
+  ('pygments.lexers.apl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\apl.py',
+   'PYMODULE'),
+  ('pygments.lexers.archetype',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\archetype.py',
+   'PYMODULE'),
+  ('pygments.lexers.arrow',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\arrow.py',
+   'PYMODULE'),
+  ('pygments.lexers.arturo',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\arturo.py',
+   'PYMODULE'),
+  ('pygments.lexers.asc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\asc.py',
+   'PYMODULE'),
+  ('pygments.lexers.asm',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\asm.py',
+   'PYMODULE'),
+  ('pygments.lexers.asn1',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\asn1.py',
+   'PYMODULE'),
+  ('pygments.lexers.automation',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\automation.py',
+   'PYMODULE'),
+  ('pygments.lexers.bare',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\bare.py',
+   'PYMODULE'),
+  ('pygments.lexers.basic',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\basic.py',
+   'PYMODULE'),
+  ('pygments.lexers.bdd',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\bdd.py',
+   'PYMODULE'),
+  ('pygments.lexers.berry',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\berry.py',
+   'PYMODULE'),
+  ('pygments.lexers.bibtex',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\bibtex.py',
+   'PYMODULE'),
+  ('pygments.lexers.blueprint',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\blueprint.py',
+   'PYMODULE'),
+  ('pygments.lexers.boa',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\boa.py',
+   'PYMODULE'),
+  ('pygments.lexers.bqn',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\bqn.py',
+   'PYMODULE'),
+  ('pygments.lexers.business',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\business.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_cpp',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\c_cpp.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_like',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\c_like.py',
+   'PYMODULE'),
+  ('pygments.lexers.capnproto',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\capnproto.py',
+   'PYMODULE'),
+  ('pygments.lexers.carbon',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\carbon.py',
+   'PYMODULE'),
+  ('pygments.lexers.cddl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\cddl.py',
+   'PYMODULE'),
+  ('pygments.lexers.chapel',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\chapel.py',
+   'PYMODULE'),
+  ('pygments.lexers.clean',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\clean.py',
+   'PYMODULE'),
+  ('pygments.lexers.comal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\comal.py',
+   'PYMODULE'),
+  ('pygments.lexers.compiled',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\compiled.py',
+   'PYMODULE'),
+  ('pygments.lexers.configs',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\configs.py',
+   'PYMODULE'),
+  ('pygments.lexers.console',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\console.py',
+   'PYMODULE'),
+  ('pygments.lexers.cplint',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\cplint.py',
+   'PYMODULE'),
+  ('pygments.lexers.crystal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\crystal.py',
+   'PYMODULE'),
+  ('pygments.lexers.csound',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\csound.py',
+   'PYMODULE'),
+  ('pygments.lexers.css',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\css.py',
+   'PYMODULE'),
+  ('pygments.lexers.d',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\d.py',
+   'PYMODULE'),
+  ('pygments.lexers.dalvik',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\dalvik.py',
+   'PYMODULE'),
+  ('pygments.lexers.data',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\data.py',
+   'PYMODULE'),
+  ('pygments.lexers.dax',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\dax.py',
+   'PYMODULE'),
+  ('pygments.lexers.devicetree',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\devicetree.py',
+   'PYMODULE'),
+  ('pygments.lexers.diff',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\diff.py',
+   'PYMODULE'),
+  ('pygments.lexers.dns',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\dns.py',
+   'PYMODULE'),
+  ('pygments.lexers.dotnet',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\dotnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.dsls',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\dsls.py',
+   'PYMODULE'),
+  ('pygments.lexers.dylan',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\dylan.py',
+   'PYMODULE'),
+  ('pygments.lexers.ecl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ecl.py',
+   'PYMODULE'),
+  ('pygments.lexers.eiffel',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\eiffel.py',
+   'PYMODULE'),
+  ('pygments.lexers.elm',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\elm.py',
+   'PYMODULE'),
+  ('pygments.lexers.elpi',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\elpi.py',
+   'PYMODULE'),
+  ('pygments.lexers.email',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\email.py',
+   'PYMODULE'),
+  ('pygments.lexers.erlang',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\erlang.py',
+   'PYMODULE'),
+  ('pygments.lexers.esoteric',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\esoteric.py',
+   'PYMODULE'),
+  ('pygments.lexers.ezhil',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ezhil.py',
+   'PYMODULE'),
+  ('pygments.lexers.factor',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\factor.py',
+   'PYMODULE'),
+  ('pygments.lexers.fantom',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\fantom.py',
+   'PYMODULE'),
+  ('pygments.lexers.felix',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\felix.py',
+   'PYMODULE'),
+  ('pygments.lexers.fift',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\fift.py',
+   'PYMODULE'),
+  ('pygments.lexers.floscript',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\floscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.forth',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\forth.py',
+   'PYMODULE'),
+  ('pygments.lexers.fortran',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\fortran.py',
+   'PYMODULE'),
+  ('pygments.lexers.foxpro',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\foxpro.py',
+   'PYMODULE'),
+  ('pygments.lexers.freefem',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\freefem.py',
+   'PYMODULE'),
+  ('pygments.lexers.func',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\func.py',
+   'PYMODULE'),
+  ('pygments.lexers.functional',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\functional.py',
+   'PYMODULE'),
+  ('pygments.lexers.futhark',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\futhark.py',
+   'PYMODULE'),
+  ('pygments.lexers.gcodelexer',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\gcodelexer.py',
+   'PYMODULE'),
+  ('pygments.lexers.gdscript',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\gdscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.go',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\go.py',
+   'PYMODULE'),
+  ('pygments.lexers.grammar_notation',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\grammar_notation.py',
+   'PYMODULE'),
+  ('pygments.lexers.graph',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\graph.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphics',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\graphics.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphql',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\graphql.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphviz',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\graphviz.py',
+   'PYMODULE'),
+  ('pygments.lexers.gsql',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\gsql.py',
+   'PYMODULE'),
+  ('pygments.lexers.haskell',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\haskell.py',
+   'PYMODULE'),
+  ('pygments.lexers.haxe',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\haxe.py',
+   'PYMODULE'),
+  ('pygments.lexers.hdl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\hdl.py',
+   'PYMODULE'),
+  ('pygments.lexers.hexdump',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\hexdump.py',
+   'PYMODULE'),
+  ('pygments.lexers.html',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\html.py',
+   'PYMODULE'),
+  ('pygments.lexers.idl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\idl.py',
+   'PYMODULE'),
+  ('pygments.lexers.igor',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\igor.py',
+   'PYMODULE'),
+  ('pygments.lexers.inferno',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\inferno.py',
+   'PYMODULE'),
+  ('pygments.lexers.installers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\installers.py',
+   'PYMODULE'),
+  ('pygments.lexers.int_fiction',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\int_fiction.py',
+   'PYMODULE'),
+  ('pygments.lexers.iolang',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\iolang.py',
+   'PYMODULE'),
+  ('pygments.lexers.j',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\j.py',
+   'PYMODULE'),
+  ('pygments.lexers.javascript',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\javascript.py',
+   'PYMODULE'),
+  ('pygments.lexers.jmespath',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\jmespath.py',
+   'PYMODULE'),
+  ('pygments.lexers.jslt',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\jslt.py',
+   'PYMODULE'),
+  ('pygments.lexers.jsonnet',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\jsonnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.jsx',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\jsx.py',
+   'PYMODULE'),
+  ('pygments.lexers.julia',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\julia.py',
+   'PYMODULE'),
+  ('pygments.lexers.jvm',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\jvm.py',
+   'PYMODULE'),
+  ('pygments.lexers.kuin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\kuin.py',
+   'PYMODULE'),
+  ('pygments.lexers.kusto',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\kusto.py',
+   'PYMODULE'),
+  ('pygments.lexers.ldap',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ldap.py',
+   'PYMODULE'),
+  ('pygments.lexers.lean',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\lean.py',
+   'PYMODULE'),
+  ('pygments.lexers.lilypond',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\lilypond.py',
+   'PYMODULE'),
+  ('pygments.lexers.lisp',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\lisp.py',
+   'PYMODULE'),
+  ('pygments.lexers.macaulay2',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\macaulay2.py',
+   'PYMODULE'),
+  ('pygments.lexers.make',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\make.py',
+   'PYMODULE'),
+  ('pygments.lexers.markup',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\markup.py',
+   'PYMODULE'),
+  ('pygments.lexers.math',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\math.py',
+   'PYMODULE'),
+  ('pygments.lexers.matlab',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\matlab.py',
+   'PYMODULE'),
+  ('pygments.lexers.maxima',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\maxima.py',
+   'PYMODULE'),
+  ('pygments.lexers.meson',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\meson.py',
+   'PYMODULE'),
+  ('pygments.lexers.mime',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\mime.py',
+   'PYMODULE'),
+  ('pygments.lexers.minecraft',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\minecraft.py',
+   'PYMODULE'),
+  ('pygments.lexers.mips',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\mips.py',
+   'PYMODULE'),
+  ('pygments.lexers.ml',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ml.py',
+   'PYMODULE'),
+  ('pygments.lexers.modeling',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\modeling.py',
+   'PYMODULE'),
+  ('pygments.lexers.modula2',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\modula2.py',
+   'PYMODULE'),
+  ('pygments.lexers.monte',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\monte.py',
+   'PYMODULE'),
+  ('pygments.lexers.mosel',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\mosel.py',
+   'PYMODULE'),
+  ('pygments.lexers.ncl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ncl.py',
+   'PYMODULE'),
+  ('pygments.lexers.nimrod',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\nimrod.py',
+   'PYMODULE'),
+  ('pygments.lexers.nit',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\nit.py',
+   'PYMODULE'),
+  ('pygments.lexers.nix',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\nix.py',
+   'PYMODULE'),
+  ('pygments.lexers.oberon',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\oberon.py',
+   'PYMODULE'),
+  ('pygments.lexers.objective',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\objective.py',
+   'PYMODULE'),
+  ('pygments.lexers.ooc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ooc.py',
+   'PYMODULE'),
+  ('pygments.lexers.openscad',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\openscad.py',
+   'PYMODULE'),
+  ('pygments.lexers.other',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\other.py',
+   'PYMODULE'),
+  ('pygments.lexers.parasail',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\parasail.py',
+   'PYMODULE'),
+  ('pygments.lexers.parsers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\parsers.py',
+   'PYMODULE'),
+  ('pygments.lexers.pascal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\pascal.py',
+   'PYMODULE'),
+  ('pygments.lexers.pawn',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\pawn.py',
+   'PYMODULE'),
+  ('pygments.lexers.perl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\perl.py',
+   'PYMODULE'),
+  ('pygments.lexers.phix',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\phix.py',
+   'PYMODULE'),
+  ('pygments.lexers.php',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\php.py',
+   'PYMODULE'),
+  ('pygments.lexers.pointless',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\pointless.py',
+   'PYMODULE'),
+  ('pygments.lexers.pony',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\pony.py',
+   'PYMODULE'),
+  ('pygments.lexers.praat',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\praat.py',
+   'PYMODULE'),
+  ('pygments.lexers.procfile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\procfile.py',
+   'PYMODULE'),
+  ('pygments.lexers.prolog',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\prolog.py',
+   'PYMODULE'),
+  ('pygments.lexers.promql',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\promql.py',
+   'PYMODULE'),
+  ('pygments.lexers.prql',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\prql.py',
+   'PYMODULE'),
+  ('pygments.lexers.ptx',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ptx.py',
+   'PYMODULE'),
+  ('pygments.lexers.python',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\python.py',
+   'PYMODULE'),
+  ('pygments.lexers.q',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\q.py',
+   'PYMODULE'),
+  ('pygments.lexers.qlik',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\qlik.py',
+   'PYMODULE'),
+  ('pygments.lexers.qvt',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\qvt.py',
+   'PYMODULE'),
+  ('pygments.lexers.r',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\r.py',
+   'PYMODULE'),
+  ('pygments.lexers.rdf',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\rdf.py',
+   'PYMODULE'),
+  ('pygments.lexers.rebol',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\rebol.py',
+   'PYMODULE'),
+  ('pygments.lexers.resource',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\resource.py',
+   'PYMODULE'),
+  ('pygments.lexers.ride',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ride.py',
+   'PYMODULE'),
+  ('pygments.lexers.rita',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\rita.py',
+   'PYMODULE'),
+  ('pygments.lexers.rnc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\rnc.py',
+   'PYMODULE'),
+  ('pygments.lexers.roboconf',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\roboconf.py',
+   'PYMODULE'),
+  ('pygments.lexers.robotframework',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\robotframework.py',
+   'PYMODULE'),
+  ('pygments.lexers.ruby',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ruby.py',
+   'PYMODULE'),
+  ('pygments.lexers.rust',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\rust.py',
+   'PYMODULE'),
+  ('pygments.lexers.sas',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\sas.py',
+   'PYMODULE'),
+  ('pygments.lexers.savi',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\savi.py',
+   'PYMODULE'),
+  ('pygments.lexers.scdoc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\scdoc.py',
+   'PYMODULE'),
+  ('pygments.lexers.scripting',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\scripting.py',
+   'PYMODULE'),
+  ('pygments.lexers.sgf',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\sgf.py',
+   'PYMODULE'),
+  ('pygments.lexers.shell',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\shell.py',
+   'PYMODULE'),
+  ('pygments.lexers.sieve',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\sieve.py',
+   'PYMODULE'),
+  ('pygments.lexers.slash',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\slash.py',
+   'PYMODULE'),
+  ('pygments.lexers.smalltalk',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\smalltalk.py',
+   'PYMODULE'),
+  ('pygments.lexers.smithy',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\smithy.py',
+   'PYMODULE'),
+  ('pygments.lexers.smv',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\smv.py',
+   'PYMODULE'),
+  ('pygments.lexers.snobol',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\snobol.py',
+   'PYMODULE'),
+  ('pygments.lexers.solidity',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\solidity.py',
+   'PYMODULE'),
+  ('pygments.lexers.sophia',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\sophia.py',
+   'PYMODULE'),
+  ('pygments.lexers.special',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\special.py',
+   'PYMODULE'),
+  ('pygments.lexers.spice',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\spice.py',
+   'PYMODULE'),
+  ('pygments.lexers.sql',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\sql.py',
+   'PYMODULE'),
+  ('pygments.lexers.srcinfo',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\srcinfo.py',
+   'PYMODULE'),
+  ('pygments.lexers.stata',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\stata.py',
+   'PYMODULE'),
+  ('pygments.lexers.supercollider',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\supercollider.py',
+   'PYMODULE'),
+  ('pygments.lexers.tal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\tal.py',
+   'PYMODULE'),
+  ('pygments.lexers.tcl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\tcl.py',
+   'PYMODULE'),
+  ('pygments.lexers.teal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\teal.py',
+   'PYMODULE'),
+  ('pygments.lexers.templates',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\templates.py',
+   'PYMODULE'),
+  ('pygments.lexers.teraterm',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\teraterm.py',
+   'PYMODULE'),
+  ('pygments.lexers.testing',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\testing.py',
+   'PYMODULE'),
+  ('pygments.lexers.text',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\text.py',
+   'PYMODULE'),
+  ('pygments.lexers.textedit',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\textedit.py',
+   'PYMODULE'),
+  ('pygments.lexers.textfmts',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\textfmts.py',
+   'PYMODULE'),
+  ('pygments.lexers.theorem',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\theorem.py',
+   'PYMODULE'),
+  ('pygments.lexers.thingsdb',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\thingsdb.py',
+   'PYMODULE'),
+  ('pygments.lexers.tlb',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\tlb.py',
+   'PYMODULE'),
+  ('pygments.lexers.tls',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\tls.py',
+   'PYMODULE'),
+  ('pygments.lexers.tnt',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\tnt.py',
+   'PYMODULE'),
+  ('pygments.lexers.trafficscript',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\trafficscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.typoscript',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\typoscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.ul4',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\ul4.py',
+   'PYMODULE'),
+  ('pygments.lexers.unicon',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\unicon.py',
+   'PYMODULE'),
+  ('pygments.lexers.urbi',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\urbi.py',
+   'PYMODULE'),
+  ('pygments.lexers.usd',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\usd.py',
+   'PYMODULE'),
+  ('pygments.lexers.varnish',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\varnish.py',
+   'PYMODULE'),
+  ('pygments.lexers.verification',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\verification.py',
+   'PYMODULE'),
+  ('pygments.lexers.verifpal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\verifpal.py',
+   'PYMODULE'),
+  ('pygments.lexers.vip',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\vip.py',
+   'PYMODULE'),
+  ('pygments.lexers.vyper',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\vyper.py',
+   'PYMODULE'),
+  ('pygments.lexers.web',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\web.py',
+   'PYMODULE'),
+  ('pygments.lexers.webassembly',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\webassembly.py',
+   'PYMODULE'),
+  ('pygments.lexers.webidl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\webidl.py',
+   'PYMODULE'),
+  ('pygments.lexers.webmisc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\webmisc.py',
+   'PYMODULE'),
+  ('pygments.lexers.wgsl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\wgsl.py',
+   'PYMODULE'),
+  ('pygments.lexers.whiley',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\whiley.py',
+   'PYMODULE'),
+  ('pygments.lexers.wowtoc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\wowtoc.py',
+   'PYMODULE'),
+  ('pygments.lexers.wren',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\wren.py',
+   'PYMODULE'),
+  ('pygments.lexers.x10',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\x10.py',
+   'PYMODULE'),
+  ('pygments.lexers.xorg',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\xorg.py',
+   'PYMODULE'),
+  ('pygments.lexers.yang',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\yang.py',
+   'PYMODULE'),
+  ('pygments.lexers.yara',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\yara.py',
+   'PYMODULE'),
+  ('pygments.lexers.zig',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\lexers\\zig.py',
+   'PYMODULE'),
+  ('pygments.modeline',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\modeline.py',
+   'PYMODULE'),
+  ('pygments.plugin',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\plugin.py',
+   'PYMODULE'),
+  ('pygments.regexopt',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\regexopt.py',
+   'PYMODULE'),
+  ('pygments.scanner',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\scanner.py',
+   'PYMODULE'),
+  ('pygments.style',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\style.py',
+   'PYMODULE'),
+  ('pygments.styles',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\__init__.py',
+   'PYMODULE'),
+  ('pygments.styles._mapping',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.styles.abap',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\abap.py',
+   'PYMODULE'),
+  ('pygments.styles.algol',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\algol.py',
+   'PYMODULE'),
+  ('pygments.styles.algol_nu',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\algol_nu.py',
+   'PYMODULE'),
+  ('pygments.styles.arduino',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\arduino.py',
+   'PYMODULE'),
+  ('pygments.styles.autumn',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\autumn.py',
+   'PYMODULE'),
+  ('pygments.styles.borland',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\borland.py',
+   'PYMODULE'),
+  ('pygments.styles.bw',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\bw.py',
+   'PYMODULE'),
+  ('pygments.styles.colorful',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\colorful.py',
+   'PYMODULE'),
+  ('pygments.styles.default',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\default.py',
+   'PYMODULE'),
+  ('pygments.styles.dracula',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\dracula.py',
+   'PYMODULE'),
+  ('pygments.styles.emacs',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\emacs.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\friendly.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly_grayscale',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\friendly_grayscale.py',
+   'PYMODULE'),
+  ('pygments.styles.fruity',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\fruity.py',
+   'PYMODULE'),
+  ('pygments.styles.gh_dark',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\gh_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.gruvbox',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\gruvbox.py',
+   'PYMODULE'),
+  ('pygments.styles.igor',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\igor.py',
+   'PYMODULE'),
+  ('pygments.styles.inkpot',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\inkpot.py',
+   'PYMODULE'),
+  ('pygments.styles.lightbulb',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\lightbulb.py',
+   'PYMODULE'),
+  ('pygments.styles.lilypond',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\lilypond.py',
+   'PYMODULE'),
+  ('pygments.styles.lovelace',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\lovelace.py',
+   'PYMODULE'),
+  ('pygments.styles.manni',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\manni.py',
+   'PYMODULE'),
+  ('pygments.styles.material',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\material.py',
+   'PYMODULE'),
+  ('pygments.styles.monokai',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\monokai.py',
+   'PYMODULE'),
+  ('pygments.styles.murphy',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\murphy.py',
+   'PYMODULE'),
+  ('pygments.styles.native',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\native.py',
+   'PYMODULE'),
+  ('pygments.styles.nord',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\nord.py',
+   'PYMODULE'),
+  ('pygments.styles.onedark',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\onedark.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_dark',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\paraiso_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_light',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\paraiso_light.py',
+   'PYMODULE'),
+  ('pygments.styles.pastie',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\pastie.py',
+   'PYMODULE'),
+  ('pygments.styles.perldoc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\perldoc.py',
+   'PYMODULE'),
+  ('pygments.styles.rainbow_dash',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\rainbow_dash.py',
+   'PYMODULE'),
+  ('pygments.styles.rrt',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\rrt.py',
+   'PYMODULE'),
+  ('pygments.styles.sas',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\sas.py',
+   'PYMODULE'),
+  ('pygments.styles.solarized',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\solarized.py',
+   'PYMODULE'),
+  ('pygments.styles.staroffice',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\staroffice.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_dark',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\stata_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_light',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\stata_light.py',
+   'PYMODULE'),
+  ('pygments.styles.tango',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\tango.py',
+   'PYMODULE'),
+  ('pygments.styles.trac',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\trac.py',
+   'PYMODULE'),
+  ('pygments.styles.vim',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\vim.py',
+   'PYMODULE'),
+  ('pygments.styles.vs',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\vs.py',
+   'PYMODULE'),
+  ('pygments.styles.xcode',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\xcode.py',
+   'PYMODULE'),
+  ('pygments.styles.zenburn',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\styles\\zenburn.py',
+   'PYMODULE'),
+  ('pygments.token',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\token.py',
+   'PYMODULE'),
+  ('pygments.unistring',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\unistring.py',
+   'PYMODULE'),
+  ('pygments.util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygments\\util.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\ssl.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipp',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('zipp.glob',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\zipp\\glob.py',
+   'PYMODULE'),
+  ('zipp.py310compat',
+   'c:\\users\\mukul  '
+   'dev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\zipp\\py310compat.py',
+   'PYMODULE')])
